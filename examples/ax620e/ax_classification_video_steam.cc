@@ -48,7 +48,7 @@ const int DEFAULT_IMG_H = 224;
 const int DEFAULT_IMG_W = 224;
 const int DEFAULT_LOOP_COUNT = 1;
 
-#include <mjpeg_streamer.hpp>
+#include <base/mjpeg_streamer.hpp>
 using MJPEGStreamer = nadjieb::MJPEGStreamer;
 
 // ミリ秒単位でスリープ

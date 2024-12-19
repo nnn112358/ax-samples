@@ -54,4 +54,5 @@ axera_example(ax_model_info ax_model_info.cc)
 axera_example(ax_classification_video_steam ax_classification_video_steam.cc)
 axera_example(ax_yolo11_steps_video_steam ax_yolo11_steps_video_steam.cc)
 axera_example(ax_yolov9_Wholebody17_video_steam ax_yolov9_Wholebody17_video_steam.cc)
+axera_example(ax_depth_anything_video_stream ax_depth_anything_video_stream.cc)
 

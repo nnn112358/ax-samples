@@ -45,7 +45,7 @@
 const int DEFAULT_IMG_H = 640;
 const int DEFAULT_IMG_W = 640;
 
-#include <mjpeg_streamer.hpp>
+#include <base/mjpeg_streamer.hpp>
 using MJPEGStreamer = nadjieb::MJPEGStreamer;
 
 
